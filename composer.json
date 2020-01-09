@@ -1,0 +1,16 @@
+{
+    "name": "iflycc/test",
+    "description": "just a test~",
+    "authors": [
+        {
+            "name": "iflycc",
+            "email": "xxx@qq.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+          "JustTest\\" : "./src/"
+        }
+    }
+}
